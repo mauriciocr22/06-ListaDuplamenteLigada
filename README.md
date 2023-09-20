@@ -1,3 +1,5 @@
+mauricio.rodrigues10@fatec.sp.gov.br Maurício de Carvalho Rodrigues
+
 # Lista Duplamente Ligada 
 ---
 
